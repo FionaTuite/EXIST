@@ -295,12 +295,14 @@ h5 a:hover{
 		background-position:0%;
 	}
 	.landp ul li{
+		float: left;
 		list-style-type: none;
 		display: inline-block;
 		line-height:5px;
 		font-size: 14px;
 	}
 	.landp ul li a{
+		float: left;
 		padding-right: 10px;
 		padding-left: 10px;
 	}
