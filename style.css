@@ -297,7 +297,7 @@ h5 a:hover{
 	.landp ul li{
 		float: left;
 		list-style-type: none;
-		display: inline-block;
+		display: block;
 		line-height:5px;
 		font-size: 14px;
 	}
