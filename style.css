@@ -292,16 +292,13 @@ h5 a:hover{
 @media screen and (max-width: 480px) {
 	.landp{
 		max-width: 100%;
-		top: 0;
-		display: table;
-		background-size: cover;
 		background-position:0%;
 	}
 	.landp ul li{
 		list-style-type: none;
 		display: inline-block;
 		line-height:5px;
-		font-size: 18px;
+		font-size: 14px;
 	}
 	.landp ul li a{
 		padding-right: 10px;
