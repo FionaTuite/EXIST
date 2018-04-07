@@ -296,7 +296,6 @@ h5 a:hover{
 	}
 	.landp ul li{
 		float: left;
-		list-style-type: none;
 		display: block;
 		line-height:5px;
 		font-size: 14px;
@@ -305,6 +304,8 @@ h5 a:hover{
 		float: left;
 		padding-right: 10px;
 		padding-left: 10px;
+		text-align: center;
+		display:block;
 	}
 	.inner p{
 		font-size: 95%;
